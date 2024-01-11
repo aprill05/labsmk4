@@ -57,14 +57,12 @@ Anda dapat membuat tautan dengan menuliskan teks dalam kurung siku dan URL dalam
 
 markdown
 Copy code
-[Google](https://www.google.com)
 
 6. Gambar
 Sama seperti tautan, tetapi dengan tanda seru (!) di awal.
 
 markdown
 Copy code
-![Alt Text](https://example.com/image.jpg)
 
 7. Kutipan
 Anda dapat membuat kutipan dengan menggunakan tanda kurung lebih dari satu (>) di awal.
