@@ -7,9 +7,9 @@ Semakin banyak tanda pagar, semakin kecil ukuran judulnya.
 
 markdown
 Copy code
-# Ini adalah Judul 1
-## Ini adalah Judul 2
-### Ini adalah Judul 3
+ Ini adalah Judul 1
+ Ini adalah Judul 2
+ Ini adalah Judul 3
 
 2. Teks
 Anda dapat menulis teks biasa tanpa penanda khusus.
